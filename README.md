@@ -1,7 +1,7 @@
 # MechaCar Statistical Analysis
 ![Intro Image](https://marvel-b1-cdn.bc0a.com/f00000000151999/www.teradata.com/getmedia/7ea67103-1d53-480d-a779-563d09ca36f1/AdobeStock_281172483.jpeg?origin=fd)
 ## Overview of the Analysis
- The MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. The data analytics team was asked to review the production data for insights that may help the manufacturing team. A study design proposal was also generated to compare vehicle performance of MechaCar vehicles against vehicles from other manufacturers. The following tests were performed to generate insights:
+ The MechaCar is suffering from production troubles that are blocking the manufacturing team’s progress. The data analytics team was asked to review the production data for insights that may help the manufacturing team. A study design proposal was also generated to compare vehicle performance of MechaCar vehicles against vehicles from other manufacturers. The following tests were performed to generate insights:
  - Multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
  - Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
  - Run t-tests to determine if the manufacturing lots are statistically different from the mean population.
