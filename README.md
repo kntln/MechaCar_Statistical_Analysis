@@ -38,7 +38,7 @@
     - The p-value of Lot 2 is equals to 0.61. Similar to Lot 1, we fail to reject the null hypothesis and therefore it can be concluded that Lot 2 is statistically similar to the population mean of 1500.
     ![Lot 2 t-test](https://github.com/kntln/MechaCar_Statistical_Analysis/blob/main/figures/lot2_ttest.png)
     - Lot 3 yielded a p-value of 0.04 which is lower than 0.05 significance level. In this case, there is sufficient evidence to reject the null hypothesis. Thus, Lot 3 is statistically different from the population mean of 1500. Further investigation on Lot 3's production is warranted as this could be impeding with the progress of the manufacturing team of MechaCar.
-    ![Lot 3 t-test](https://github.com/kntln/MechaCar_Statistical_Analysis/blob/main/figures/lot3_ttest.png)
+![Lot 3 t-test](https://github.com/kntln/MechaCar_Statistical_Analysis/blob/main/figures/lot3_ttest.png)
 
 
 ## Study Design: MechaCar vs Competition
