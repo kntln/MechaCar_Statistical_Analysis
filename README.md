@@ -30,13 +30,13 @@
 ## T-Tests on Suspension Coils
 1. Total Manufacturing Lots
     - T-test was used to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch. The test yielded a p-value of 0.06 which is above the common 0.05 percent significance level. Hence, there is no sufficient evidence to reject the null hypothesis, and the mean of all three manufacturing lots is not statistically different to the population mean of 1500.
-
 ![Total Summary t-test](https://github.com/kntln/MechaCar_Statistical_Analysis/blob/main/figures/total_summary_ttest.png)
 
 2. Individual Lots
-    - The t-test for Lot 1 generated a p-value = 1 which is higher than 0.05 siginificance level. Therefore, we fail to reject the null hypothesis and Lot 1 not statistically different to the population mean of 1500.![Lot 1 t-test](https://github.com/kntln/MechaCar_Statistical_Analysis/blob/main/figures/lot1_ttest.png)
+    - The t-test for Lot 1 generated a p-value = 1 which is higher than 0.05 siginificance level. Therefore, we fail to reject the null hypothesis and Lot 1 not statistically different to the population mean of 1500.
+ ![Lot 1 t-test](https://github.com/kntln/MechaCar_Statistical_Analysis/blob/main/figures/lot1_ttest.png)
     - The p-value of Lot 2 is equals to 0.61. Similar to Lot 1, we fail to reject the null hypothesis and therefore it can be concluded that Lot 2 is statistically similar to the population mean of 1500.
-    ![Lot 2 t-test](https://github.com/kntln/MechaCar_Statistical_Analysis/blob/main/figures/lot2_ttest.png)
+![Lot 2 t-test](https://github.com/kntln/MechaCar_Statistical_Analysis/blob/main/figures/lot2_ttest.png)
     - Lot 3 yielded a p-value of 0.04 which is lower than 0.05 significance level. In this case, there is sufficient evidence to reject the null hypothesis. Thus, Lot 3 is statistically different from the population mean of 1500. Further investigation on Lot 3's production is warranted as this could be impeding with the progress of the manufacturing team of MechaCar.
 ![Lot 3 t-test](https://github.com/kntln/MechaCar_Statistical_Analysis/blob/main/figures/lot3_ttest.png)
 
